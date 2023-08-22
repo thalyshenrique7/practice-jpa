@@ -11,9 +11,9 @@
 	</parent>
 	
 	<groupId>com.devthalys</groupId>
-	<artifactId>Conhecendo-o-EntityManager</artifactId>
+	<artifactId>Practice-JPA</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Conhecendo-o-EntityManager</name>
+	<name>Practice-JPA</name>
 	
 	<properties>
 		<java.version>11</java.version>
